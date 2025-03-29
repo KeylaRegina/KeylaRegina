@@ -3,9 +3,8 @@
 
 
 
-- 🔭 Hoje estou à procura de uma vaga de estágio na área de tecnologia
-- 🌱 Estou estudando Analise e desenvolvimento de sistemas.
-- 💬 Estou fazendo curso tecnico de web mobile (iniciante)
+- 🔭 Hoje estou à procura de uma vaga júnior na área de tecnologia
+- 💬 Estou estudando na escola de cursos DevClub (front end )
 - 😄 Pronouns: ela/dela
 
 
