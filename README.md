@@ -3,7 +3,8 @@
 
 
 
-- 🔭 Hoje estou à procura de uma vaga júnior na área de tecnologia
+- 🔭 Hoje estou à procura de uma vaga na área de tecnologia
+- 🎓 Cursando Analise e Desenvolvimento de Sistemas - Faculdade Anhanguera
 - 💬 Estou estudando na escola de cursos DevClub (front end )
 - 😄 Pronouns: ela/dela
 
